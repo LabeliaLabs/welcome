@@ -7,7 +7,7 @@ Our core partner Owkin is currently developing the v1 of Substra, a software fra
 There isn't much made available publicly yet, but we are working hard on it! In the upcoming months we will release our whitepaper, the first contents about the approaches and methodologies we study, and the v1 of the framework as soon as it passes its first security audit (this is planned for Fall 2019).
 
 ## Why are we working on this? What is our approach?
-We described the context and our approach in [Substra Foundation's manifesto](./SubstraFoundation_Manifesto-v0.1_2019.03.19.pdf) (this is an early version, meant to be updated in the upcoming months).
+We described the context and our approach in [Substra Foundation's manifesto](./Substra-Foundation_Manifesto-v0.1_2019.06.05.pdf) (this is an early version, meant to be updated in the upcoming months).
 
 ## Who is making this software framework?
 Owkin's Substra team in Nantes (France) is developing the Substra framework. It started in April 2018.
@@ -17,8 +17,8 @@ The software project is very central, but we'd like the Substra initiative to be
 
 ## When will one find something tangible here?
 Here are indicative timelines for the different types of material we plan to host here as open source repositories:
-- Whitepaper: for the v1 we aim at April-May 2019
-- Short exploratory notes on methodologies and challenges in collaborative machine learning: from June 2019 onwards
+- Whitepaper: for the v1 we aim at Summer 2019
+- Short exploratory notes on methodologies and challenges in collaborative machine learning: from Summer 2019 onwards
 - Substra framework: Owkin will release the v1 it is developing once a functional MVP will have successfully passed a first security audit. This is planned for Fall 2019
 
 ## Under what license will the Substra framework be released
@@ -35,4 +35,4 @@ Substra is a collaborative initiative and we'd like to foster contributions from
 If you already have an interest, an idea, or just some comments, we'd be really glad to hear them! Please contact us at hello@substra.org.
 
 ## Where can I find more information?
-As indicated above we will publish different contents in the upcoming months. By then don't hesitate to reach out to us at hello@substra.org! You can also read the early version (v0.1) of [Substra Foundation's manifesto](./SubstraFoundation_Manifesto-v0.1_2019.03.19.pdf). Stay tuned for more very soon!
+As indicated above we will publish different contents in the upcoming months. By then don't hesitate to reach out to us at hello@substra.org! You can also read the early version (v0.1) of [Substra Foundation's manifesto](./Substra-Foundation_Manifesto-v0.1_2019.06.05.pdf). Stay tuned for more very soon!
