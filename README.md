@@ -17,8 +17,7 @@ The software project is very central, but we'd like the Substra initiative to be
 
 ## When will one find something tangible here?
 Here are indicative timelines for the different types of material we plan to host here as open source repositories:
-- Whitepaper: for the v1 we aim at Summer 2019
-- Short exploratory notes on methodologies and challenges in collaborative machine learning: from Summer 2019 onwards
+- Whitepaper: for the v1 we aim at October 2019
 - Substra framework: Owkin will release the v1 it is developing once a functional MVP will have successfully passed a first security audit. This is planned for Fall 2019
 
 ## Under what license will the Substra framework be released
