@@ -26,7 +26,8 @@ Substra Foundation is a French non-profit founded by passionate and committed in
 ## How can one contribute?
 Substra is a collaborative initiative and we'd like to foster contributions from motivated individuals and interested organizations. You can find more information about how to contribute and the different workgroups on:
 - the [How to contribute?](https://www.substra.ai/en/contribute) page on the website
-- the _Contribution Guidelines_ (soon, working on it!)
+- the [Contributing Guide](https://github.com/SubstraFoundation/.github/blob/master/CONTRIBUTING.md) 
+- our [Code of Conduct](https://github.com/SubstraFoundation/.github/blob/master/CODE_OF_CONDUCT.md)
 
 ## Where can I find more information?
 Don't hesitate to reach out to us at hello@substra.org! You can also read [Substra Foundation's manifesto](./Substra-Foundation_Manifesto-v0.3_2019.10.25.pdf) and [Substra whitepaper](./substra_whitepaper_arxiv.pdf), browse [Substra Foundation's website](https://www.substra.org), ask questions on the [Substra's Discourse forum](https://forum.substra.org).
