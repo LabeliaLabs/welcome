@@ -2,11 +2,11 @@
 
 ## Welcome!
 You are browsing Substra Foundation's Welcome repository: welcome!
-We are working on methodologies and tools to facilitate multi-partner collaborative ML projects in secure, traceable, privacy-preserving conditions. 
+We are working on methodologies and tools to facilitate multi-partner collaborative ML projects in secure, traceable, privacy-preserving conditions.
 Our core partner [Owkin](https://www.owkin.com) is dedicating a full tech team to the development of Substra, a software framework for secure, traceable, distributed orchestration of ML tasks.
 
 ## Why are we working on this? What is our approach?
-We described the context and our approach in [Substra Foundation's manifesto](./Substra-Foundation_Manifesto-v0.3_2019.10.25.pdf) (this is an early version, meant to be updated regularly). You can also consult [Substra whitepaper](./substra_whitepaper_arxiv.pdf) to learn more about the technical concepts underlying Substra Framework.
+We described the context and our approach in [Substra Foundation's manifesto](./Substra-Foundation_Manifesto-v0.4_2020.05.11.pdf) (this is an early version, meant to be updated regularly). You can also consult [Substra whitepaper](./substra_whitepaper_arxiv.pdf) to learn more about the technical concepts underlying Substra Framework.
 
 ## Who is making this software framework?
 Owkin's Substra team in Nantes (France) is dedicating a full tech team to the development of Substra Framework. It started in April 2018. Since the open sourcing under the Apache 2.0 license in October 2019, all contributions are welcome!
@@ -26,8 +26,8 @@ Substra Foundation is a French non-profit founded by passionate and committed in
 ## How can one contribute?
 Substra is a collaborative initiative and we'd like to foster contributions from motivated individuals and interested organizations. You can find more information about how to contribute and the different workgroups on:
 - the [How to contribute?](https://www.substra.ai/en/contribute) page on the website
-- the [Contributing Guide](https://github.com/SubstraFoundation/.github/blob/master/CONTRIBUTING.md) 
+- the [Contributing Guide](https://github.com/SubstraFoundation/.github/blob/master/CONTRIBUTING.md)
 - our [Code of Conduct](https://github.com/SubstraFoundation/.github/blob/master/CODE_OF_CONDUCT.md)
 
 ## Where can I find more information?
-Don't hesitate to reach out to us at hello@substra.org! You can also read [Substra Foundation's manifesto](./Substra-Foundation_Manifesto-v0.3_2019.10.25.pdf) and [Substra whitepaper](./substra_whitepaper_arxiv.pdf), browse [Substra Foundation's website](https://www.substra.org), ask questions on the [Substra's Discourse forum](https://forum.substra.org).
+Don't hesitate to reach out to us at hello@substra.org! You can also read [Substra Foundation's manifesto](./Substra-Foundation_Manifesto-v0.4_2020.05.11.pdf) and [Substra whitepaper](./substra_whitepaper_arxiv.pdf), browse [Substra Foundation's website](https://www.substra.org), ask questions on the [Substra's Discourse forum](https://forum.substra.org).
